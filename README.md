@@ -8,7 +8,7 @@ Done using Hadoop, Hive, Flume
 
 Ubuntu 16.04 LTS and above<br>
 Apache Hadoop 2.7 and above<br>
-Apache Flume 1.6.0 and above<br>
+Apache Flume 1.6.0 and above (Downloadable from Apache Flume Mirrors)<br>
 
 **TO USE**
 
